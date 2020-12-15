@@ -1,0 +1,136 @@
+{
+    "pop": [
+        "TOTPOP_CY",
+        "TSPOP19_CY",
+        "TSPOP18_CY"
+    ],
+    "educ": [
+        "BACHDEG_CY",
+        "GRADDEG_CY"
+    ],
+    "gens": [
+        "GENALPHACY",
+        "GENZ_CY",
+        "MILLENN_CY",
+        "GENX_CY",
+        "BABYBOOMCY",
+        "OLDRGENSCY"
+    ],
+    "disp": [
+        "DI0_CY",
+        "DI15_CY",
+        "DI25_CY",
+        "DI35_CY",
+        "DI50_CY",
+        "DI75_CY",
+        "DI100_CY",
+        "DI150_CY",
+        "DI200_CY"
+    ],
+    "div": [
+        "MINORITYCY",
+        "DIVINDX_CY"
+    ],
+    "unem": [
+        "UNEMP_CY"
+    ],
+    "ind_emp": [
+        "INDAGRI_CY",
+        "INDMIN_CY",
+        "INDCONS_CY",
+        "INDMANU_CY",
+        "INDWHTR_CY",
+        "INDRTTR_CY",
+        "INDTRAN_CY",
+        "INDUTIL_CY",
+        "INDINFO_CY",
+        "INDFIN_CY",
+        "INDRE_CY",
+        "INDTECH_CY",
+        "INDMGMT_CY",
+        "INDADMN_CY",
+        "INDEDUC_CY",
+        "INDHLTH_CY",
+        "INDARTS_CY",
+        "INDFOOD_CY",
+        "INDOTSV_CY",
+        "INDPUBL_CY"
+    ],
+    "occ": [
+        "OCCMGMT_CY",
+        "OCCBUS_CY",
+        "OCCCOMP_CY",
+        "OCCARCH_CY",
+        "OCCSSCI_CY",
+        "OCCSSRV_CY",
+        "OCCLEGL_CY",
+        "OCCEDUC_CY",
+        "OCCENT_CY",
+        "OCCHTCH_CY",
+        "OCCHLTH_CY",
+        "OCCPROT_CY",
+        "OCCFOOD_CY",
+        "OCCBLDG_CY",
+        "OCCPERS_CY",
+        "OCCSALE_CY",
+        "OCCADMN_CY",
+        "OCCFARM_CY",
+        "OCCCONS_CY",
+        "OCCMAIN_CY",
+        "OCCPROD_CY",
+        "OCCTRAN_CY"
+    ],
+    "bus": [
+        "N02_BUS",
+        "N03_BUS",
+        "N04_BUS",
+        "N05_BUS",
+        "N06_BUS",
+        "N07_BUS",
+        "N08_BUS",
+        "N09_BUS",
+        "N10_BUS",
+        "N11_BUS",
+        "N12_BUS",
+        "N13_BUS",
+        "N14_BUS",
+        "N15_BUS",
+        "N16_BUS",
+        "N17_BUS",
+        "N18_BUS",
+        "N19_BUS",
+        "N20_BUS",
+        "N21_BUS",
+        "N22_BUS",
+        "N23_BUS",
+        "N24_BUS",
+        "N25_BUS",
+        "N26_BUS",
+        "N27_BUS",
+        "N28_BUS",
+        "N29_BUS",
+        "N30_BUS",
+        "N31_BUS",
+        "N32_BUS",
+        "N33_BUS",
+        "N34_BUS",
+        "N35_BUS",
+        "N36_BUS",
+        "N37_BUS",
+        "N38_BUS",
+        "N39_BUS",
+        "N40_BUS",
+        "N41_BUS"
+    ],
+    "ent": [
+        "X9001_I"
+    ],
+    "crm": [
+        "CRMCYTOTC"
+    ],
+    "house": [
+        "HAI_CY",
+        "OWNER_CY",
+        "RENTER_CY"
+    ]
+}
