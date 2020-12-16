@@ -1,0 +1,108 @@
+Match1,Match2,pval
+"New York-Newark-Jersey City, NY-NJ-PA","Los Angeles-Long Beach-Anaheim, CA",0.4026287973089743
+"New York-Newark-Jersey City, NY-NJ-PA","Pittsburgh, PA",0.40200020754404
+"New York-Newark-Jersey City, NY-NJ-PA","Boulder, CO",0.4173006573478466
+"Seattle-Tacoma-Bellevue, WA","Pittsburgh, PA",0.09983057749144109
+"Seattle-Tacoma-Bellevue, WA","Boulder, CO",0.13503284979408842
+"San Diego-Chula Vista-Carlsbad, CA","Boston-Cambridge-Newton, MA-NH",0.1461080411573497
+"San Diego-Chula Vista-Carlsbad, CA","Portland-Vancouver-Hillsboro, OR-WA",0.12034844224690566
+"San Diego-Chula Vista-Carlsbad, CA","Miami-Fort Lauderdale-Pompano Beach, FL",0.26470287543789783
+"Washington-Arlington-Alexandria, DC-VA-MD-WV","Chicago-Naperville-Elgin, IL-IN-WI",0.24806822311179128
+"Washington-Arlington-Alexandria, DC-VA-MD-WV","Minneapolis-St. Paul-Bloomington, MN-WI",0.15832590809130853
+"Washington-Arlington-Alexandria, DC-VA-MD-WV","Miami-Fort Lauderdale-Pompano Beach, FL",0.0653516904200878
+"Washington-Arlington-Alexandria, DC-VA-MD-WV","Denver-Aurora-Lakewood, CO",0.4592979200829696
+"Washington-Arlington-Alexandria, DC-VA-MD-WV","Sacramento-Roseville-Folsom, CA",0.12334714666099089
+"Washington-Arlington-Alexandria, DC-VA-MD-WV","Atlanta-Sandy Springs-Alpharetta, GA",0.26122542549200867
+"Washington-Arlington-Alexandria, DC-VA-MD-WV","Raleigh-Cary, NC",0.1084099479930068
+"Orlando-Kissimmee-Sanford, FL","Kansas City, MO-KS",0.10389374197150497
+"Boston-Cambridge-Newton, MA-NH","Miami-Fort Lauderdale-Pompano Beach, FL",0.15934776726777672
+"Chicago-Naperville-Elgin, IL-IN-WI","Miami-Fort Lauderdale-Pompano Beach, FL",0.15353573352488642
+"Chicago-Naperville-Elgin, IL-IN-WI","Denver-Aurora-Lakewood, CO",0.37827481971802235
+"Chicago-Naperville-Elgin, IL-IN-WI","Sacramento-Roseville-Folsom, CA",0.10044308340962416
+"Chicago-Naperville-Elgin, IL-IN-WI","Atlanta-Sandy Springs-Alpharetta, GA",0.10755357909842722
+"Chicago-Naperville-Elgin, IL-IN-WI","Raleigh-Cary, NC",0.07603623756414445
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Minneapolis-St. Paul-Bloomington, MN-WI",0.06820123124205393
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Richmond, VA",0.35253334838712813
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Charlotte-Concord-Gastonia, NC-SC",0.49731534646966735
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Dallas-Fort Worth-Arlington, TX",0.2678152708708089
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Phoenix-Mesa-Chandler, AZ",0.11226831484365024
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Sacramento-Roseville-Folsom, CA",0.054142588645502435
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Detroit-Warren-Dearborn, MI",0.13635003186292677
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Madison, WI",0.49663574455440396
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Raleigh-Cary, NC",0.055832272492096366
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Houston-The Woodlands-Sugar Land, TX",0.3720652204883921
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","San Antonio-New Braunfels, TX",0.06713510290096238
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD","Salt Lake City, UT",0.4442128877310961
+"Portland-Vancouver-Hillsboro, OR-WA","Austin-Round Rock-Georgetown, TX",0.22174225474736897
+"Portland-Vancouver-Hillsboro, OR-WA","Miami-Fort Lauderdale-Pompano Beach, FL",0.4502452003742215
+"Minneapolis-St. Paul-Bloomington, MN-WI","Denver-Aurora-Lakewood, CO",0.16847085204403683
+"Minneapolis-St. Paul-Bloomington, MN-WI","Richmond, VA",0.06413801485978672
+"Minneapolis-St. Paul-Bloomington, MN-WI","Charlotte-Concord-Gastonia, NC-SC",0.11415765028052216
+"Minneapolis-St. Paul-Bloomington, MN-WI","Phoenix-Mesa-Chandler, AZ",0.30131378116236496
+"Minneapolis-St. Paul-Bloomington, MN-WI","Sacramento-Roseville-Folsom, CA",0.4466145771533617
+"Minneapolis-St. Paul-Bloomington, MN-WI","Atlanta-Sandy Springs-Alpharetta, GA",0.34282821473895386
+"Minneapolis-St. Paul-Bloomington, MN-WI","Madison, WI",0.16330316440396825
+"Minneapolis-St. Paul-Bloomington, MN-WI","Raleigh-Cary, NC",0.36372410164264724
+"Minneapolis-St. Paul-Bloomington, MN-WI","Salt Lake City, UT",0.1710543254241268
+"Austin-Round Rock-Georgetown, TX","Miami-Fort Lauderdale-Pompano Beach, FL",0.4036817449653919
+"Austin-Round Rock-Georgetown, TX","Denver-Aurora-Lakewood, CO",0.059074801742970806
+"Los Angeles-Long Beach-Anaheim, CA","Pittsburgh, PA",0.444290419246317
+"Los Angeles-Long Beach-Anaheim, CA","Boulder, CO",0.3554598108774275
+"Pittsburgh, PA","Boulder, CO",0.4007099026620086
+"Miami-Fort Lauderdale-Pompano Beach, FL","Denver-Aurora-Lakewood, CO",0.10029331754123766
+"Denver-Aurora-Lakewood, CO","Phoenix-Mesa-Chandler, AZ",0.07074949388721635
+"Denver-Aurora-Lakewood, CO","Sacramento-Roseville-Folsom, CA",0.2081202530856891
+"Denver-Aurora-Lakewood, CO","Atlanta-Sandy Springs-Alpharetta, GA",0.28993381148921715
+"Denver-Aurora-Lakewood, CO","Raleigh-Cary, NC",0.18100418515917016
+"Denver-Aurora-Lakewood, CO","Salt Lake City, UT",0.07592937626939972
+"Richmond, VA","Charlotte-Concord-Gastonia, NC-SC",0.3620536406578012
+"Richmond, VA","Dallas-Fort Worth-Arlington, TX",0.4448232088169576
+"Richmond, VA","Phoenix-Mesa-Chandler, AZ",0.08726245023483181
+"Richmond, VA","Detroit-Warren-Dearborn, MI",0.23330070521407004
+"Richmond, VA","Madison, WI",0.404976227292828
+"Richmond, VA","Houston-The Woodlands-Sugar Land, TX",0.43624804101997
+"Richmond, VA","Fayetteville-Springdale-Rogers, AR",0.07216733537514766
+"Richmond, VA","San Antonio-New Braunfels, TX",0.15625212073150563
+"Richmond, VA","Salt Lake City, UT",0.3284589172358503
+"Charlotte-Concord-Gastonia, NC-SC","Dallas-Fort Worth-Arlington, TX",0.32586796795329687
+"Charlotte-Concord-Gastonia, NC-SC","Phoenix-Mesa-Chandler, AZ",0.12228081385470169
+"Charlotte-Concord-Gastonia, NC-SC","Sacramento-Roseville-Folsom, CA",0.14831946705766214
+"Charlotte-Concord-Gastonia, NC-SC","Detroit-Warren-Dearborn, MI",0.15796468810633113
+"Charlotte-Concord-Gastonia, NC-SC","Madison, WI",0.39455920507329517
+"Charlotte-Concord-Gastonia, NC-SC","Raleigh-Cary, NC",0.10666975952588831
+"Charlotte-Concord-Gastonia, NC-SC","Houston-The Woodlands-Sugar Land, TX",0.46921764973050606
+"Charlotte-Concord-Gastonia, NC-SC","Fayetteville-Springdale-Rogers, AR",0.06178254920733122
+"Charlotte-Concord-Gastonia, NC-SC","San Antonio-New Braunfels, TX",0.12809809509548287
+"Charlotte-Concord-Gastonia, NC-SC","Salt Lake City, UT",0.3260095238966433
+"Dallas-Fort Worth-Arlington, TX","Detroit-Warren-Dearborn, MI",0.24515952813096226
+"Dallas-Fort Worth-Arlington, TX","Madison, WI",0.3017400738752225
+"Dallas-Fort Worth-Arlington, TX","Houston-The Woodlands-Sugar Land, TX",0.43794210892421087
+"Dallas-Fort Worth-Arlington, TX","Fayetteville-Springdale-Rogers, AR",0.08085100106878551
+"Dallas-Fort Worth-Arlington, TX","San Antonio-New Braunfels, TX",0.12086324549285382
+"Dallas-Fort Worth-Arlington, TX","Salt Lake City, UT",0.3285255230603224
+"Phoenix-Mesa-Chandler, AZ","Sacramento-Roseville-Folsom, CA",0.36744144489049035
+"Phoenix-Mesa-Chandler, AZ","Atlanta-Sandy Springs-Alpharetta, GA",0.15581419905425103
+"Phoenix-Mesa-Chandler, AZ","Madison, WI",0.16334579244898523
+"Phoenix-Mesa-Chandler, AZ","Raleigh-Cary, NC",0.40445677190708706
+"Phoenix-Mesa-Chandler, AZ","Salt Lake City, UT",0.21280002480394977
+"Sacramento-Roseville-Folsom, CA","Atlanta-Sandy Springs-Alpharetta, GA",0.2660065813469759
+"Sacramento-Roseville-Folsom, CA","Madison, WI",0.06367087840707966
+"Sacramento-Roseville-Folsom, CA","Raleigh-Cary, NC",0.4560333002978635
+"Sacramento-Roseville-Folsom, CA","Salt Lake City, UT",0.23723399600816014
+"Detroit-Warren-Dearborn, MI","Madison, WI",0.16739209744171019
+"Detroit-Warren-Dearborn, MI","Houston-The Woodlands-Sugar Land, TX",0.1815455455743702
+"Detroit-Warren-Dearborn, MI","Fayetteville-Springdale-Rogers, AR",0.3496656275003156
+"Detroit-Warren-Dearborn, MI","San Antonio-New Braunfels, TX",0.31721481884283487
+"Detroit-Warren-Dearborn, MI","Salt Lake City, UT",0.1664679274930509
+"Atlanta-Sandy Springs-Alpharetta, GA","Raleigh-Cary, NC",0.22679919754683364
+"Atlanta-Sandy Springs-Alpharetta, GA","Salt Lake City, UT",0.09953799443745848
+"Madison, WI","Raleigh-Cary, NC",0.08018186627326207
+"Madison, WI","Houston-The Woodlands-Sugar Land, TX",0.4372749129348019
+"Madison, WI","San Antonio-New Braunfels, TX",0.10097042266568335
+"Madison, WI","Salt Lake City, UT",0.4229699631999857
+"Raleigh-Cary, NC","Salt Lake City, UT",0.23046195509980766
+"Houston-The Woodlands-Sugar Land, TX","San Antonio-New Braunfels, TX",0.11396426132445842
+"Houston-The Woodlands-Sugar Land, TX","Salt Lake City, UT",0.24448034986194117
+"Fayetteville-Springdale-Rogers, AR","San Antonio-New Braunfels, TX",0.4774940802735311
+"Fayetteville-Springdale-Rogers, AR","Salt Lake City, UT",0.07588581053429655
+"San Antonio-New Braunfels, TX","Salt Lake City, UT",0.07810759947640913
